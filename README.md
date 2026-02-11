@@ -46,7 +46,7 @@ Dataset includes:
 - District-wise bar charts
 - Heatmaps for correlation analysis
 - Pie charts for consumer category distribution
-- Comparative analysis of consumption vs. revenue
+- Comparative analysis of consumption vs. Revenue
 
 ---
 
